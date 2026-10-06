@@ -26,58 +26,259 @@
         ],
         "behavior": "Continues to sit on couch; ruminates about his failures."
     },
-    {
-        "name": "Abe",
-        "id": "1-2",
-        "type": [
-            "plain",
-            "verbose",
-            "tangent",
-            "upset",
-            "reserved",
-            "pleasing"
-        ],
-        "history": "Father leaves family when Abe is 11 years old. He never sees him again. Mom is overburdened, criticizes when he can't meet her unrealistic expectations. Precipitants to current disorder: Abe struggles and then loses his job and undergoes divorce.",
-        "helpless_belief": [
-            "I am incompetent.",
-            "I am a failture."
-        ],
-        "unlovable_belief": [],
-        "worthless_belief": [],
-        "intermediate_belief": "It's important to be responsible, competent, reliable and helpful. It's important to work hard and be productive.\n[during depression]\n(1) If I avoid challenges, I'll be okay, but if I try to do hard things I'll fail. (2) If I avoid asking for help, my incompetence won't show but if I do ask for help, people will see how incompetent I am.",
-        "coping_strategies": "Avoids asking for help and avoids challenges.",
-        "situation": "Thinking of asking son for help in revising resume.",
-        "auto_thought": "I should be able to do this on my own.",
-        "emotion": [
-            "sad, down, lonely, unhappy"
-        ],
-        "behavior": "Avoids asking son for help."
-    },
-    {
-        "name": "Abe",
-        "id": "1-3",
-        "type": [
-            "plain",
-            "verbose",
-            "tangent",
-            "upset",
-            "reserved",
-            "pleasing"
-        ],
-        "history": "Father leaves family when Abe is 11 years old. He never sees him again. Mom is overburdened, criticizes when he can't meet her unrealistic expectations. Precipitants to current disorder: Abe struggles and then loses his job and undergoes divorce.",
-        "helpless_belief": [
-            "I am incompetent.",
-            "I am a failture."
-        ],
-        "unlovable_belief": [],
-        "worthless_belief": [],
-        "intermediate_belief": "It's important to be responsible, competent, reliable and helpful. It's important to work hard and be productive.\n[during depression]\n(1) If I avoid challenges, I'll be okay, but if I try to do hard things I'll fail. (2) If I avoid asking for help, my incompetence won't show but if I do ask for help, people will see how incompetent I am.",
-        "coping_strategies": "Avoids asking for help and avoids challenges.",
-        "situation": "Memory of being criticized by boss.",
-        "auto_thought": "I should have tried harder.",
-        "emotion": [
-            "sad, down, lonely, unhappy"
-        ],
-        "behavior": "Ruminates about what a failure he was."
-    }
-]
+   {
+    "name": "Shiva",
+    "id": "2-1",
+    "type": [
+        "plain",
+        "verbose",
+        "tangent",
+        "upset",
+        "reserved",
+        "pleasing"
+    ],
+    "history": "Shiva is a 26-year-old man who grew up in a loving family with a caring father and a supportive best friend. During adulthood, he fell deeply in love with a woman and was in a relationship with her for nearly two years. Shiva believed the relationship was genuine and imagined spending his life with her. Over time, he realized that she was more interested in his physical appearance than in him as a person. When it came time to marry, she chose a financially well-settled man and ended the relationship. The betrayal left Shiva heartbroken. Unable to cope with the loss and painful memories, he began drinking alcohol heavily in an attempt to numb his emotional pain.",
+    "helpless_belief": [
+        "I am not enough.",
+        "No matter how much I love someone, I will always be abandoned."
+    ],
+    "unlovable_belief": [
+        "People only value me for what I can offer, not for who I am.",
+        "I am not worthy of genuine love."
+    ],
+    "worthless_belief": [
+        "I am replaceable.",
+        "I don't matter to the people I love."
+    ],
+    "intermediate_belief": "True love should last forever. If someone leaves me, it means I was never good enough. Showing my emotions will make others see me as weak. Drinking is the only way to escape my painful memories.",
+    "coping_strategies": "Avoids thinking about the future, isolates himself from friends, repeatedly thinks about the relationship, and uses alcohol to suppress painful emotions and memories.",
+    "situation": "Seeing an old photograph of himself with his former girlfriend.",
+    "auto_thought": "She was happier without me. I was never enough for her.",
+    "emotion": [
+        "sad",
+        "heartbroken",
+        "lonely",
+        "hopeless",
+        "betrayed"
+    ],
+    "behavior": "Drinks alcohol to numb his emotions, withdraws from friends and family, and repeatedly ruminates about the failed relationship."
+},
+{
+    "name": "Navya",
+    "id": "3-1",
+    "type": [
+        "plain",
+        "verbose",
+        "tangent",
+        "upset",
+        "reserved",
+        "pleasing"
+    ],
+    "history": "Navya is a 23-year-old woman who has been an outstanding student throughout her school and college years. She consistently ranked at the top of her class and dreamed of becoming a doctor. Coming from a financially struggling family, she believed that hard work and academic excellence were the only ways to achieve her goals. She prepared intensely for the NEET examination, sacrificing her social life and personal interests. Despite her efforts, she was unable to secure a medical seat. Around the same time, she learned that one of her classmates, whom she believed had gained admission through dishonest means and financial influence, obtained a seat. This experience shattered Navya's faith in fairness and left her feeling that her years of hard work had been meaningless.",
+    "helpless_belief": [
+        "No matter how hard I work, I cannot succeed.",
+        "The system is against people like me."
+    ],
+    "unlovable_belief": [],
+    "worthless_belief": [
+        "My hard work has no value.",
+        "I am a failure despite giving my best."
+    ],
+    "intermediate_belief": "Success should always come through hard work and honesty. If my efforts do not lead to success, then I have failed. Life is unfair, and people with money or influence will always win.",
+    "coping_strategies": "Withdraws from friends and family, avoids studying, constantly compares herself with others, repeatedly thinks about the exam results, and loses motivation to pursue new opportunities.",
+    "situation": "Seeing social media posts celebrating her classmate's admission to medical college.",
+    "auto_thought": "All my hard work was meaningless. Honest people like me never get rewarded.",
+    "emotion": [
+        "sad",
+        "disappointed",
+        "hopeless",
+        "frustrated",
+        "resentful"
+    ],
+    "behavior": "Stops preparing for future competitive exams, isolates herself from others, spends hours ruminating about the unfairness of the outcome, and loses interest in activities she once enjoyed."
+},
+{
+    "name": "Harsha",
+    "id": "4-1",
+    "type": [
+        "plain",
+        "verbose",
+        "tangent",
+        "upset",
+        "reserved",
+        "pleasing"
+    ],
+    "history": "Harsha is a 19-year-old first-year B.Tech student. Since childhood, he has been physically weak, shy, and introverted. He finds it difficult to stand up for himself or confront others. After joining college, several seniors and classmates began targeting him because they saw him as quiet and unlikely to resist. They frequently ragged him, insulted him in front of others, mocked his appearance, and forced him to do their assignments and personal work. Harsha felt humiliated but never reported the incidents to college authorities because he feared retaliation, believed no one would support him, and thought the influential seniors would only make things worse. Over time, the repeated bullying damaged his confidence and contributed to feelings of depression and helplessness.",
+    "helpless_belief": [
+        "I cannot protect myself.",
+        "I am too weak to stand up to others."
+    ],
+    "unlovable_belief": [
+        "People will only accept me if I obey them.",
+        "Nobody will stand by me when I need help."
+    ],
+    "worthless_belief": [
+        "I am insignificant.",
+        "I deserve to be treated badly."
+    ],
+    "intermediate_belief": "If I speak up, people will make my life even harder. Staying silent is safer than defending myself. Strong and influential people always win, and people like me have no choice but to tolerate it.",
+    "coping_strategies": "Avoids interacting with classmates, stays away from social activities, obeys others to avoid conflict, suppresses his emotions, and isolates himself.",
+    "situation": "A group of seniors publicly orders him to complete their work while classmates watch and laugh.",
+    "auto_thought": "If I refuse, they'll humiliate me even more. I have no power to stop this.",
+    "emotion": [
+        "fearful",
+        "anxious",
+        "ashamed",
+        "helpless",
+        "sad"
+    ],
+    "behavior": "Silently completes the work, avoids eye contact, withdraws from classmates, skips college activities, and spends time alone thinking about the humiliation."
+},
+{
+    "name": "Ram",
+    "id": "5-1",
+    "type": [
+        "plain",
+        "verbose",
+        "tangent",
+        "upset",
+        "reserved",
+        "pleasing"
+    ],
+    "history": "Ram is a 10-year-old boy from a financially wealthy family. His father has very high expectations and believes that academic excellence is the most important goal in life. Ram's daily routine consists almost entirely of studying, eating, and sleeping. He is rarely allowed to play outside, participate in sports, or spend time with friends. His father expects him to always secure first rank in school and often criticizes even small mistakes. One term, despite studying hard, Ram finished in second place. His father reacted by beating him with a belt and telling him that second place was unacceptable. After this incident, Ram began believing that his father's affection depended entirely on his academic performance and that he was only valued when he was perfect.",
+    "helpless_belief": [
+        "No matter how hard I try, I am never good enough.",
+        "I cannot make my father proud."
+    ],
+    "unlovable_belief": [
+        "People will only love me if I am perfect.",
+        "If I make mistakes, I will lose people's love."
+    ],
+    "worthless_belief": [
+        "I am a disappointment.",
+        "My value depends only on my achievements."
+    ],
+    "intermediate_belief": "I must always be perfect to deserve love and approval. Making even one mistake means I have failed. If I do not come first, I deserve punishment.",
+    "coping_strategies": "Studies excessively, avoids recreational activities, hides mistakes, constantly seeks approval, and becomes extremely anxious about examinations and grades.",
+    "situation": "Receiving his school report card showing that he ranked second in class.",
+    "auto_thought": "I failed. Dad will never be proud of me, and he won't care about me anymore.",
+    "emotion": [
+        "fearful",
+        "ashamed",
+        "sad",
+        "anxious",
+        "hopeless"
+    ],
+    "behavior": "Cries alone, avoids talking to his father, studies for long hours without breaks, withdraws from classmates, and becomes fearful whenever examinations are mentioned."
+},
+{
+    "name": "Charan",
+    "id": "6-1",
+    "type": [
+        "plain",
+        "verbose",
+        "tangent",
+        "upset",
+        "reserved",
+        "pleasing"
+    ],
+    "history": "Charan is a 24-year-old man who lost both of his parents during childhood. After becoming homeless and struggling with extreme hunger, he stole food at the age of 14 and was sent to a juvenile correctional facility. While there, he regretted his actions and hoped to rebuild his life after release. As an adult, he has been trying to find honest work and live responsibly. However, he has faced repeated rejection from employers after they learned about his juvenile record. These experiences have left him believing that his past defines him forever and that he will never be given a second chance.",
+    "helpless_belief": [
+        "My past will always control my future.",
+        "Nothing I do can change my life."
+    ],
+    "unlovable_belief": [
+        "People will never trust or accept me.",
+        "No one wants someone with my past."
+    ],
+    "worthless_belief": [
+        "I am a criminal forever.",
+        "I don't deserve a better life."
+    ],
+    "intermediate_belief": "Once someone makes a serious mistake, society never forgives them. If people know about my past, they will reject me. There is no point trying because I will always fail.",
+    "coping_strategies": "Avoids applying for jobs after repeated rejection, isolates himself from others, hides his past, gives up easily when faced with setbacks, and spends long periods ruminating about his mistakes.",
+    "situation": "Receiving another job rejection after an employer learns about his juvenile record.",
+    "auto_thought": "My life is over. No one will ever give me a second chance.",
+    "emotion": [
+        "hopeless",
+        "sad",
+        "ashamed",
+        "lonely",
+        "discouraged"
+    ],
+    "behavior": "Stops applying for jobs, withdraws from social interactions, spends most of his time alone, and repeatedly thinks that his future can never improve."
+},
+{
+    "name": "Suhash",
+    "id": "7-1",
+    "type": [
+        "plain",
+        "verbose",
+        "tangent",
+        "upset",
+        "reserved",
+        "pleasing"
+    ],
+    "history": "Suhash is a 29-year-old software engineer known for being honest, polite, and soft-spoken. Although he earned a good salary, most of his monthly income was committed to home loan EMIs and other financial obligations. He lived a disciplined life and was slowly building a stable future. One day, while travelling on a crowded bus, the driver applied sudden brakes, causing Suhash to lose his balance and accidentally fall onto a woman standing nearby. She accused him of intentionally molesting her and filed a police complaint. Before Suhash had an opportunity to explain his side of the incident, videos and posts about the accusation spread rapidly on social media. Many people publicly judged him based only on the accusation. His employer suspended and later terminated him because of the negative publicity. Losing his job meant he could no longer afford his EMIs, and he feared losing his house and everything he had worked for. The incident shattered his confidence and left him feeling that his life had been destroyed overnight.",
+    "helpless_belief": [
+        "No one will believe me.",
+        "My life can be destroyed even when I have done nothing wrong."
+    ],
+    "unlovable_belief": [
+        "People will see me as a bad person forever.",
+        "Everyone will reject me because of this accusation."
+    ],
+    "worthless_belief": [
+        "My reputation is ruined.",
+        "Everything I worked for has become meaningless."
+    ],
+    "intermediate_belief": "Once society labels someone, the truth no longer matters. If people accuse me, I cannot defend myself. Losing my reputation means I have lost my future.",
+    "coping_strategies": "Withdraws from friends and colleagues, avoids public places, repeatedly reads news and social media comments about the incident, isolates himself, and constantly worries about his financial future.",
+    "situation": "Receiving a bank reminder that his EMI payment is overdue after losing his job.",
+    "auto_thought": "No one believes me. I will lose my home, my career, and my entire future.",
+    "emotion": [
+        "hopeless",
+        "anxious",
+        "ashamed",
+        "fearful",
+        "overwhelmed"
+    ],
+    "behavior": "Stays at home, avoids answering calls from friends and relatives, repeatedly thinks about the incident, struggles to search for new jobs, and becomes increasingly withdrawn."
+},
+{
+    "name": "Sunil",
+    "id": "8-1",
+    "type": [
+        "plain",
+        "verbose",
+        "tangent",
+        "upset",
+        "reserved",
+        "pleasing"
+    ],
+    "history": "Sunil is a 20-year-old college student studying in a private engineering college. He comes from a middle-class family. His father works in another city and earns around ₹22,000 per month, while his mother is a homemaker. His parents sacrificed many comforts and carefully saved nearly ₹2,00,000 to pay his college tuition fees because they wanted him to have a better future. Sunil struggled academically and gradually became addicted to online betting and gambling. At first, he believed he could earn quick money, but over time his gambling became uncontrollable. Eventually, he lost the entire ₹2,00,000 that his father had saved for his education. His family does not yet know about the loss. Sunil is overwhelmed by guilt, believing that he has betrayed his parents' trust and destroyed their future as well as his own.",
+    "helpless_belief": [
+        "I have ruined my life.",
+        "I can never recover from this mistake."
+    ],
+    "unlovable_belief": [
+        "My parents will never forgive me.",
+        "I don't deserve my family's love anymore."
+    ],
+    "worthless_belief": [
+        "I am a complete failure.",
+        "I have wasted my parents' sacrifices."
+    ],
+    "intermediate_belief": "A good son should never disappoint his parents. One major mistake can destroy a person's entire future. If my parents find out the truth, they will reject me and lose all trust in me.",
+    "coping_strategies": "Avoids telling his parents the truth, isolates himself from friends, repeatedly thinks about the money he lost, avoids attending classes, and tries to escape his guilt by sleeping or staying alone.",
+    "situation": "Receiving a message from his father asking whether the college fees have been paid.",
+    "auto_thought": "I have destroyed everything. My parents will hate me when they find out the truth.",
+    "emotion": [
+        "guilty",
+        "ashamed",
+        "anxious",
+        "hopeless",
+        "fearful"
+    ],
+    "behavior": "Avoids answering his father's calls, withdraws from friends, skips college classes, spends hours worrying about the consequences, and struggles to think of a way to tell his family the truth."
+}
